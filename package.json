@@ -54,7 +54,7 @@
   "devDependencies": {
     "check-node-version": "^3.2.0",
     "fs-extra": "^5.0.0",
-    "grumbler-scripts": "^2",
+    "grumbler-scripts": "^6",
     "npm": "^5.8.0",
     "flow-bin": "^0.85.0"
   },
